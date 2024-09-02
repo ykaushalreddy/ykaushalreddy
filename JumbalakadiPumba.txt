@@ -1,0 +1,21 @@
+Conducted requirement analysis, grooming and formulated testing strategies in the Payment domain.
+
+Attained maximum code coverage through API unit testing using Rest Assured, thereby increasing code coverage.
+
+Automated test scenarios for functional UI user cases using selenium-java, resulting in reduction in testing time.
+
+Executed data driven load testing of APIs using Postman by parameterizing APIs, ensuring system stability under high load conditions.
+
+Managed regression and sanity suites for different environments in a release cycle, ensuring comprehensive test coverage.
+
+Provided training and mentorship to new QAs, resulting in their swift onboarding and productive contribution to the team.
+
+Worked with scaled agile framework using SAFE methodology and tools like Rally, MIRO and Jira.
+
+Actively participated in product reviews with businesses to address feedbacks to extend product's usability and appeal.
+
+Engaged in multiple client meetings with Product Owners to review work and address requirement-based queries, ensuring alignment with client expectations.
+
+Worked on multiple US based projects like card integrations, payment settlements, integrating with 3rd party payment solution providers and customizing/personalizing UI or reports for multiple banks.
+
+
